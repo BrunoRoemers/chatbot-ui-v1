@@ -1,5 +1,7 @@
 # Chatbot UI
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2c702bb-97a5-4fcf-95af-65ca77fa8ed8/deploy-status)](https://app.netlify.com/sites/chatbot-ui-v1/deploys) => https://chatbot-ui-v1.roemers.io
+
 ## News
 
 Chatbot UI 2.0 will launch on December 28th, 2023.
